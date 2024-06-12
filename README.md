@@ -3,6 +3,8 @@
 
 Aquest treball consisteix desenvolupar una visualització de dades que demostri un cert coneixement del camp de la visualització de dades, així com la tria apropiada d'eines i tècniques. Es farà servir el joc de dades seleccionats i validats a la primera part de la pràctica.
 
+El dataset seleccionat és el “Hotel Bookings” obtingut del repositori Kaggle: https://www.kaggle.com/datasets/mlardi/hotel-booking-demand-with-economic-indicators
+
 ### Autor
   * Guillem Mata Valligny - (gmatav@uoc.edu)
 
