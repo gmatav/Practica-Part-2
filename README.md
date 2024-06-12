@@ -5,6 +5,8 @@ Aquest treball consisteix desenvolupar una visualització de dades que demostri 
 
 El dataset seleccionat és el “Hotel Bookings” obtingut del repositori Kaggle: https://www.kaggle.com/datasets/mlardi/hotel-booking-demand-with-economic-indicators
 
+Aquest ampli conjunt de dades té un gran potencial per a una exploració en profunditat de diversos aspectes implicats en els processos de reserves i cancel·lacions d'hotels, alhora que proporciona informació valuosa per millorar els serveis hotelers, optimitzar les operacions i comprendre les preferències dels clients.
+
 ### Autor
   * Guillem Mata Valligny - (gmatav@uoc.edu)
 
